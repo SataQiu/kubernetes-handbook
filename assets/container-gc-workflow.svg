@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 container-gc-workflow.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="13.5271in" height="9.5435in"
+		viewBox="0 0 973.951 687.132" xml:space="preserve" color-interpolation-filters="sRGB" class="st24">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#000000;fill-opacity:0.2;filter:url(#filter_4);stroke:#000000;stroke-linecap:butt;stroke-opacity:0.2}
+		.st3 {fill:#749ecb;stroke:#6083a9;stroke-linecap:butt;stroke-width:1.25}
+		.st4 {fill:#feffff;font-family:微软雅黑;font-size:1.5em}
+		.st5 {font-size:1em}
+		.st6 {fill:none;filter:url(#filter_4);marker-end:url(#mrkr13-22);stroke:#000000;stroke-linecap:butt;stroke-opacity:0.2}
+		.st7 {fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-opacity:0.2;stroke-width:0.37313432835821}
+		.st8 {marker-end:url(#mrkr13-28);stroke:#72a5d8;stroke-linecap:butt;stroke-width:1.5}
+		.st9 {fill:#72a5d8;fill-opacity:1;stroke:#72a5d8;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st10 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st11 {fill:#5997d0;font-family:Franklin Gothic Book;font-size:1.5em}
+		.st12 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st13 {stroke:#f4b183;stroke-linecap:butt;stroke-width:3}
+		.st14 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:1.25}
+		.st15 {fill:#c55a11;font-family:Franklin Gothic Book;font-size:1.5em}
+		.st16 {font-family:宋体;font-size:1em}
+		.st17 {fill:#ffffff;font-family:微软雅黑;font-size:1.5em}
+		.st18 {stroke:#72a5d8;stroke-linecap:butt;stroke-width:1.5}
+		.st19 {stroke:#72a5d8;stroke-dasharray:24,12;stroke-linecap:butt;stroke-width:3}
+		.st20 {fill:#000000;font-family:华文琥珀;font-size:1.5em}
+		.st21 {fill:none;filter:url(#filter_4);stroke:#000000;stroke-linecap:butt;stroke-opacity:0.2}
+		.st22 {stroke:#4a80b0;stroke-linecap:butt;stroke-width:1.25}
+		.st23 {fill:#ed7d31;font-family:微软雅黑;font-size:1.33333em}
+		.st24 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-22" class="st7" v:arrowType="13" v:arrowSize="2" v:setback="8.04" refX="-8.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<marker id="mrkr13-28" class="st9" v:arrowType="13" v:arrowSize="2" v:setback="8.04" refX="-8.04" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.68,-2.68) "/>
+		</marker>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_4">
+			<feGaussianBlur stdDeviation="4"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<v:layer v:name="标注" v:index="1"/>
+		<g id="shape70-1" v:mID="70" v:groupContext="shape" transform="translate(120.921,-526.949)">
+			<title>框.70</title>
+			<desc>读取 Pod 容器列表</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="52.1575" cy="662.974" width="104.32" height="48.3167"/>
+			<g id="shadow70-2" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="104.315" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="104.315" height="48.3167" class="st3"/>
+			<text x="14.51" y="657.57" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>读取 Pod <tspan
+						x="16.16" dy="1.2em" class="st5">容器列表</tspan></text>		</g>
+		<g id="shape72-8" v:mID="72" v:groupContext="shape" transform="translate(253.016,-526.949)">
+			<title>框.72</title>
+			<desc>根据年龄排序容器列表</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="52.1575" cy="662.974" width="104.32" height="48.3167"/>
+			<g id="shadow72-9" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="104.315" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="104.315" height="48.3167" class="st3"/>
+			<text x="7.16" y="657.57" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>根据年龄排<tspan x="7.16"
+						dy="1.2em" class="st5">序容器列表</tspan></text>		</g>
+		<g id="shape73-15" v:mID="73" v:groupContext="shape" v:layerMember="0" transform="translate(225.236,-544.021)">
+			<title>动态连接线.73</title>
+			<g id="shadow73-16" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 680.05 L15.72 680.05" class="st6"/>
+			</g>
+			<path d="M0 680.05 L15.72 680.05" class="st8"/>
+		</g>
+		<g id="shape75-29" v:mID="75" v:groupContext="shape" transform="translate(385.677,-517.768)">
+			<title>菱形.75</title>
+			<desc>Pod 已删除</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="74.8347" cy="653.793" width="112.26" height="33.339"/>
+			<g id="shadow75-30" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 653.79 L74.83 620.45 L149.67 653.79 L74.83 687.13 L0 653.79 Z" class="st2"/>
+			</g>
+			<path d="M0 653.79 L74.83 620.45 L149.67 653.79 L74.83 687.13 L0 653.79 Z" class="st3"/>
+			<text x="28.19" y="659.19" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Pod 已删除</text>		</g>
+		<g id="shape76-35" v:mID="76" v:groupContext="shape" v:layerMember="0" transform="translate(357.331,-544.021)">
+			<title>动态连接线.76</title>
+			<g id="shadow76-36" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 680.05 L16.29 680.05" class="st6"/>
+			</g>
+			<path d="M0 680.05 L16.29 680.05" class="st8"/>
+		</g>
+		<g id="shape78-47" v:mID="78" v:groupContext="shape" transform="translate(415.724,-433.533)">
+			<title>框.78</title>
+			<desc>清理列表所有容器</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.7874" cy="662.974" width="89.58" height="48.3167"/>
+			<g id="shadow78-48" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="89.5748" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="89.5748" height="48.3167" class="st3"/>
+			<text x="8.79" y="657.57" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>清理列表<tspan x="8.79"
+						dy="1.2em" class="st5">所有容器</tspan></text>		</g>
+		<g id="shape79-54" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(453.425,-517.768)">
+			<title>动态连接线.79</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="3.5228" cy="705.091" width="90" height="29.6036"/>
+			<g id="shadow79-55" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-254.689,557.654)" class="st1">
+				<path d="M7.09 687.13 L7.09 710.99" class="st6"/>
+			</g>
+			<path d="M7.09 687.13 L7.09 710.99" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-1.06949" y="694.292" width="9.18457" height="21.5999" class="st10"/>
+			<text x="-1.07" y="710.49" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape80-68" v:mID="80" v:groupContext="shape" v:layerMember="0" transform="translate(535.346,-544.021)">
+			<title>动态连接线.80</title>
+			<desc>N</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.2913" cy="683.609" width="90" height="29.6036"/>
+			<g id="shadow80-69" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 680.05 L22.52 680.05" class="st6"/>
+			</g>
+			<path d="M0 680.05 L22.52 680.05" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="11.3763" y="672.81" width="11.8301" height="21.5999" class="st12"/>
+			<text x="11.38" y="689.01" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>N</text>		</g>
+		<g id="shape81-82" v:mID="81" v:groupContext="shape" transform="translate(569.929,-527.722)">
+			<title>框.81</title>
+			<desc>清理列表内最老的N个容器</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.6862" cy="663.746" width="125.38" height="46.7717"/>
+			<g id="shadow81-83" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="640.361" width="125.372" height="46.7717" class="st2"/>
+			</g>
+			<rect x="0" y="640.361" width="125.372" height="46.7717" class="st3"/>
+			<text x="8.69" y="658.35" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>清理列表内最<tspan x="10.37"
+						dy="1.2em" class="st5">老的</tspan>N个容器</text>		</g>
+		<g id="shape83-89" v:mID="83" v:groupContext="shape" transform="translate(719.841,-518.155)">
+			<title>菱形.83</title>
+			<desc>满足需求</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.6862" cy="654.18" width="94.03" height="32.9528"/>
+			<g id="shadow83-90" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 654.18 L62.69 621.23 L125.37 654.18 L62.69 687.13 L0 654.18 Z" class="st2"/>
+			</g>
+			<path d="M0 654.18 L62.69 621.23 L125.37 654.18 L62.69 687.13 L0 654.18 Z" class="st3"/>
+			<text x="26.69" y="659.58" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>满足需求</text>		</g>
+		<g id="shape84-95" v:mID="84" v:groupContext="shape" v:layerMember="0" transform="translate(782.528,-586.363)">
+			<title>动态连接线.84</title>
+			<desc>N</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-79.7396" cy="674.419" width="90" height="29.6036"/>
+			<g id="shadow84-96" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-247.029,540.883)" class="st1">
+				<path d="M0 689.44 L0 683.02 A5.04 5.04 -180 0 0 -5.04 677.98 L-144.87 677.98 A5.04 5.04 -180 0 0 -149.91 683.02
+							 L-149.91 686.94" class="st6"/>
+			</g>
+			<path d="M0 689.44 L0 683.02 A5.04 5.04 -180 0 0 -5.04 677.98 L-144.87 677.98 A5.04 5.04 -180 0 0 -149.91 683.02 L-149.91
+						 686.94" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-85.6546" y="663.619" width="11.8301" height="21.5999" class="st12"/>
+			<text x="-85.65" y="679.82" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>N</text>		</g>
+		<g id="shape85-109" v:mID="85" v:groupContext="shape" v:layerMember="0" transform="translate(695.301,-544.021)">
+			<title>动态连接线.85</title>
+			<g id="shadow85-110" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 680.05 L12.48 680.05" class="st6"/>
+			</g>
+			<path d="M0 680.05 L12.48 680.05" class="st8"/>
+		</g>
+		<g id="shape86-121" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(845.214,-544.021)">
+			<title>动态连接线.86</title>
+			<g id="shadow86-122" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 680.05 L56.98 680.05" class="st6"/>
+			</g>
+			<path d="M0 680.05 L56.98 680.05" class="st8"/>
+		</g>
+		<g id="shape88-133" v:mID="88" v:groupContext="shape" transform="translate(846.307,-490.226) scale(-1,1)">
+			<title>侧边大括号.88</title>
+			<v:userDefs>
+				<v:ud v:nameU="TxtW" v:val="VT0(0.55555555555556):29"/>
+				<v:ud v:nameU="TxtA" v:val="VT0(1.5707963267949):37"/>
+				<v:ud v:nameU="TxtAState" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TxtWState" v:val="VT0(0):26"/>
+				<v:ud v:nameU="MaxRadius" v:val="VT0(0.19685039370079):24"/>
+				<v:ud v:nameU="PosCH1" v:prompt="Constrains X postion of Control Handle #1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PosCH2" v:prompt="Constrains Y postion of Control Handle #2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TxtW" v:prompt="" v:val="VT0(1.25):29"/>
+				<v:ud v:nameU="TxtA" v:prompt="" v:val="VT0(-1.5707963267949):32"/>
+			</v:userDefs>
+			<path d="M0 672.96 L0 672.96 A14.173 14.173 -180 0 0 14.17 687.13 L103.1 687.13 A14.173 14.173 0 0 1 117.27 701.31 A14.173
+						 14.173 0 0 1 131.45 687.13 L219.69 687.13 A14.173 14.173 -180 0 0 233.86 672.96 L233.86 672.96"
+					class="st13"/>
+		</g>
+		<g id="shape89-136" v:mID="89" v:groupContext="shape" transform="translate(666.692,-443.816)">
+			<title>工作表.89</title>
+			<desc>LRU 清除策略</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.6862" cy="679.054" width="125.38" height="16.1575"/>
+			<rect x="0" y="670.975" width="125.372" height="16.1575" class="st14"/>
+			<text x="9.06" y="684.85" class="st15" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>LRU <tspan
+						class="st16">清除策略</tspan></text>		</g>
+		<g id="shape91-140" v:mID="91" v:groupContext="shape" v:layerMember="0" transform="translate(58.4376,-546.919)">
+			<title>动态连接线.91</title>
+			<path d="M0 680.05 L50.42 680.05" class="st8"/>
+		</g>
+		<g id="shape94-145" v:mID="94" v:groupContext="shape" transform="translate(106.748,-342.697)">
+			<title>框.94</title>
+			<desc>读取 sandbox 列表</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.8583" cy="662.974" width="179.72" height="48.3167"/>
+			<g id="shadow94-146" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="179.717" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="179.717" height="48.3167" class="st3"/>
+			<text x="12.06" y="668.37" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>读取 sandbox 列表</text>		</g>
+		<g id="shape95-151" v:mID="95" v:groupContext="shape" transform="translate(102.213,-195.168)">
+			<title>框.95</title>
+			<desc>读取 container 列表</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.8583" cy="662.974" width="179.72" height="48.3167"/>
+			<g id="shadow95-152" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="179.717" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="179.717" height="48.3167" class="st3"/>
+			<text x="7.94" y="668.37" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>读取 container 列表</text>		</g>
+		<g id="shape96-157" v:mID="96" v:groupContext="shape" transform="translate(274.843,-264.744)">
+			<title>框.96</title>
+			<desc>滤出未被任何容器关联的非 Ready sandbox</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="103.181" cy="658.786" width="206.37" height="56.6929"/>
+			<g id="shadow96-158" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="630.439" width="206.362" height="56.6929" class="st2"/>
+			</g>
+			<rect x="0" y="630.439" width="206.362" height="56.6929" class="st3"/>
+			<text x="4.18" y="653.39" class="st17" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>滤出未被任何容器关联的<tspan
+						x="25.9" dy="1.2em" class="st5">非</tspan> Ready sandbox</text>		</g>
+		<g id="shape97-164" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(286.465,-366.855)">
+			<title>动态连接线.97</title>
+			<path d="M0 687.13 L86.52 687.13 A5.04 5.04 0 0 1 91.56 692.17 L91.56 720.49" class="st8"/>
+		</g>
+		<g id="shape98-169" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(281.929,-219.326)">
+			<title>动态连接线.98</title>
+			<path d="M0 687.13 L91.05 687.13 A5.04 5.04 -180 0 0 96.09 682.09 L96.09 653.77" class="st8"/>
+		</g>
+		<g id="shape99-174" v:mID="99" v:groupContext="shape" transform="translate(502.465,-264.744)">
+			<title>框.99</title>
+			<desc>根据年龄排序 sandbox</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="52.1575" cy="658.786" width="104.32" height="56.6929"/>
+			<g id="shadow99-175" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="630.439" width="104.315" height="56.6929" class="st2"/>
+			</g>
+			<rect x="0" y="630.439" width="104.315" height="56.6929" class="st3"/>
+			<text x="7.16" y="653.39" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>根据年龄排<tspan x="4.02"
+						dy="1.2em" class="st5">序</tspan> sandbox</text>		</g>
+		<g id="shape100-181" v:mID="100" v:groupContext="shape" v:layerMember="0" transform="translate(481.205,-286.004)">
+			<title>动态连接线.100</title>
+			<path d="M0 680.05 L9.2 680.05" class="st8"/>
+		</g>
+		<g id="shape101-186" v:mID="101" v:groupContext="shape" transform="translate(628.039,-259.752)">
+			<title>菱形.101</title>
+			<desc>Pod 已删除</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="74.8347" cy="653.793" width="112.26" height="33.339"/>
+			<g id="shadow101-187" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M0 653.79 L74.83 620.45 L149.67 653.79 L74.83 687.13 L0 653.79 Z" class="st2"/>
+			</g>
+			<path d="M0 653.79 L74.83 620.45 L149.67 653.79 L74.83 687.13 L0 653.79 Z" class="st3"/>
+			<text x="28.19" y="659.19" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Pod 已删除</text>		</g>
+		<g id="shape102-192" v:mID="102" v:groupContext="shape" v:layerMember="0" transform="translate(606.78,-286.004)">
+			<title>动态连接线.102</title>
+			<path d="M0 680.05 L9.2 680.05" class="st8"/>
+		</g>
+		<g id="shape103-197" v:mID="103" v:groupContext="shape" transform="translate(658.087,-190.175)">
+			<title>框.103</title>
+			<desc>清理所有sandbox</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.7874" cy="662.974" width="89.58" height="48.3167"/>
+			<g id="shadow103-198" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="89.5748" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="89.5748" height="48.3167" class="st3"/>
+			<text x="8.79" y="657.57" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>清理所有<tspan x="8.31"
+						dy="1.2em" class="st5">sandbox</tspan></text>		</g>
+		<g id="shape104-204" v:mID="104" v:groupContext="shape" v:layerMember="0" transform="translate(695.787,-259.752)">
+			<title>动态连接线.104</title>
+			<desc>Y</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="3.5228" cy="697.762" width="90" height="29.6036"/>
+			<path d="M7.09 687.13 L7.09 696.33" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="-1.06949" y="686.962" width="9.18457" height="21.5999" class="st12"/>
+			<text x="-1.07" y="703.16" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Y</text>		</g>
+		<g id="shape105-211" v:mID="105" v:groupContext="shape" transform="translate(798.969,-264.744)">
+			<title>框.105</title>
+			<desc>仅保留最新的 sandbox</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="52.1575" cy="658.786" width="104.32" height="56.6929"/>
+			<g id="shadow105-212" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="630.439" width="104.315" height="56.6929" class="st2"/>
+			</g>
+			<rect x="0" y="630.439" width="104.315" height="56.6929" class="st3"/>
+			<text x="7.16" y="653.39" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>仅保留最新<tspan x="4.02"
+						dy="1.2em" class="st5">的</tspan> sandbox</text>		</g>
+		<g id="shape106-218" v:mID="106" v:groupContext="shape" v:layerMember="0" transform="translate(777.709,-286.004)">
+			<title>动态连接线.106</title>
+			<desc>N</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="10.6299" cy="683.609" width="90" height="29.6036"/>
+			<path d="M0 680.05 L9.2 680.05" class="st8"/>
+			<rect v:rectContext="textBkgnd" x="4.71488" y="672.81" width="11.8301" height="21.5999" class="st10"/>
+			<text x="4.71" y="689.01" class="st11" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>N</text>		</g>
+		<g id="group112-225" transform="translate(59.6929,-219.326)" v:mID="112" v:groupContext="group">
+			<title>工作表.112</title>
+			<g id="group110-226" v:mID="110" v:groupContext="group">
+				<title>工作表.110</title>
+			</g>
+			<g id="group111-227" transform="translate(6.39488E-14,-73.7646)" v:mID="111" v:groupContext="group">
+				<title>工作表.111</title>
+			</g>
+		</g>
+		<g id="shape120-228" v:mID="120" v:groupContext="shape" transform="translate(102.213,-69.2176)">
+			<title>框.120</title>
+			<desc>遍历日志文件夹</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="89.8583" cy="662.974" width="179.72" height="48.3167"/>
+			<g id="shadow120-229" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="179.717" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="179.717" height="48.3167" class="st3"/>
+			<text x="26.86" y="668.37" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>遍历日志文件夹</text>		</g>
+		<g id="shape121-234" v:mID="121" v:groupContext="shape" transform="translate(352.512,-69.2176)">
+			<title>框.121</title>
+			<desc>清理已删除 Pod 的日志文件夹</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="137.764" cy="662.974" width="275.53" height="48.3167"/>
+			<g id="shadow121-235" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<rect x="0" y="638.816" width="275.528" height="48.3167" class="st2"/>
+			</g>
+			<rect x="0" y="638.816" width="275.528" height="48.3167" class="st3"/>
+			<text x="16.45" y="668.37" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>清理已删除 Pod 的日志文件夹</text>		</g>
+		<g id="shape122-240" v:mID="122" v:groupContext="shape" v:layerMember="0" transform="translate(281.929,-86.2894)">
+			<title>动态连接线.122</title>
+			<path d="M0 680.05 L58.52 680.05" class="st8"/>
+		</g>
+		<g id="shape123-245" v:mID="123" v:groupContext="shape" v:layerMember="0" transform="translate(51.7559,-286.004)">
+			<title>动态连接线.123</title>
+			<path d="M0 680.05 L27.78 680.05" class="st18"/>
+		</g>
+		<g id="shape124-248" v:mID="124" v:groupContext="shape" v:layerMember="0" transform="translate(79.5354,-291.801)">
+			<title>动态连接线.124</title>
+			<path d="M0 687.13 L0 617.12 A5.04 5.04 0 0 1 5.04 612.08 L15.15 612.08" class="st8"/>
+		</g>
+		<g id="shape125-253" v:mID="125" v:groupContext="shape" v:layerMember="0" transform="translate(79.5354,-291.801)">
+			<title>动态连接线.125</title>
+			<path d="M0 687.13 L0 754.57 A5.04 5.04 -180 0 0 5.04 759.61 L10.62 759.61" class="st8"/>
+		</g>
+		<g id="shape126-258" v:mID="126" v:groupContext="shape" v:layerMember="0" transform="translate(903.284,-299.512)">
+			<title>动态连接线.126</title>
+			<path d="M0 693.55 L24.23 694.44" class="st8"/>
+		</g>
+		<g id="shape127-263" v:mID="127" v:groupContext="shape" v:layerMember="0" transform="translate(68.1968,-100.989)">
+			<title>动态连接线.127</title>
+			<path d="M0 693.69 L22.08 694.37" class="st8"/>
+		</g>
+		<g id="shape128-268" v:mID="128" v:groupContext="shape" transform="translate(527.409,1025.77) scale(1,-1)">
+			<title>侧边大括号.128</title>
+			<v:userDefs>
+				<v:ud v:nameU="TxtW" v:val="VT0(0.55555555555556):29"/>
+				<v:ud v:nameU="TxtA" v:val="VT0(1.5707963267949):37"/>
+				<v:ud v:nameU="TxtAState" v:val="VT0(0):26"/>
+				<v:ud v:nameU="TxtWState" v:val="VT0(0):26"/>
+				<v:ud v:nameU="MaxRadius" v:val="VT0(0.19685039370079):24"/>
+				<v:ud v:nameU="PosCH1" v:prompt="Constrains X postion of Control Handle #1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="PosCH2" v:prompt="Constrains Y postion of Control Handle #2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Scale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="AntiScale" v:val="VT0(1):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TxtW" v:prompt="" v:val="VT0(1.25):29"/>
+			</v:userDefs>
+			<path d="M0 672.96 L0 672.96 A14.173 14.173 -180 0 0 14.17 687.13 L166.88 687.13 A14.173 14.173 0 0 1 181.05 701.31 A14.173
+						 14.173 0 0 1 195.23 687.13 L347.24 687.13 A14.173 14.173 -180 0 0 361.42 672.96 L361.42 672.96"
+					class="st13"/>
+		</g>
+		<g id="shape129-271" v:mID="129" v:groupContext="shape" transform="translate(645.432,-374.856)">
+			<title>工作表.129</title>
+			<desc>LRU 清除策略</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="62.6862" cy="679.054" width="125.38" height="16.1575"/>
+			<rect x="0" y="670.975" width="125.372" height="16.1575" class="st14"/>
+			<text x="9.06" y="684.85" class="st15" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>LRU <tspan
+						class="st16">清除策略</tspan></text>		</g>
+		<g id="shape131-275" v:mID="131" v:groupContext="shape" v:layerMember="0" transform="translate(3,-426.67)">
+			<title>动态连接线.131</title>
+			<path d="M0 694 L967.95 694.44" class="st19"/>
+		</g>
+		<g id="shape132-278" v:mID="132" v:groupContext="shape" v:layerMember="0" transform="translate(3,-163.979)">
+			<title>动态连接线.132</title>
+			<path d="M0 694 L967.95 694.44" class="st19"/>
+		</g>
+		<g id="shape133-281" v:mID="133" v:groupContext="shape" transform="translate(3,-476.053)">
+			<title>工作表.133</title>
+			<desc>容器清理</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="595.006" width="42.52" height="184.252"/>
+			<rect x="0" y="502.88" width="42.5197" height="184.252" class="st14"/>
+			<text x="12.26" y="568.01" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>容<tspan x="12.26"
+						dy="1.2em" class="st5">器</tspan><tspan x="12.26" dy="1.2em" class="st5">清</tspan><tspan x="12.26"
+						dy="1.2em" class="st5">理</tspan></text>		</g>
+		<g id="shape135-287" v:mID="135" v:groupContext="shape" transform="translate(3,-214.82)">
+			<title>工作表.135</title>
+			<desc>沙盒清理</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="595.006" width="42.52" height="184.252"/>
+			<rect x="0" y="502.88" width="42.5197" height="184.252" class="st14"/>
+			<text x="12.26" y="568.01" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>沙<tspan x="12.26"
+						dy="1.2em" class="st5">盒</tspan><tspan x="12.26" dy="1.2em" class="st5">清</tspan><tspan x="12.26"
+						dy="1.2em" class="st5">理</tspan></text>		</g>
+		<g id="shape136-293" v:mID="136" v:groupContext="shape" transform="translate(5.83463,-1.25)">
+			<title>工作表.136</title>
+			<desc>日志清理</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="595.006" width="42.52" height="184.252"/>
+			<rect x="0" y="502.88" width="42.5197" height="184.252" class="st14"/>
+			<text x="12.26" y="568.01" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>日<tspan x="12.26"
+						dy="1.2em" class="st5">志</tspan><tspan x="12.26" dy="1.2em" class="st5">清</tspan><tspan x="12.26"
+						dy="1.2em" class="st5">理</tspan></text>		</g>
+		<g id="shape77-299" v:mID="77" v:groupContext="shape" v:layerMember="1" transform="translate(102.576,-614.306)">
+			<title>正交</title>
+			<desc>容器列表内的容器需要满足 : 1. 已经停止运行 2. 年龄超过 MinAge</desc>
+			<v:userDefs>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt=""/>
+				<v:ud v:nameU="msvSDCalloutNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Side" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-6.4MM)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(10.096153846154MM,0MM)):40"/>
+				<v:ud v:nameU="IsEndInterior" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Extension" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="MultiFormat" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4a80b1)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#5b9bd5)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4a80b1)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(1.1588705121094,-0.54222515915805)):40"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(1.1588705121094,-0.54222515915805)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(1.4492185956632,0)):40"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="122.558" cy="653.117" width="245.12" height="65.6034"/>
+			<g id="shadow77-300" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M104.34 687.13 L83.44 726.17" class="st21"/>
+				<path d="M0 682.88 L0 687.13 L245.12 687.13 L245.12 682.88" class="st21"/>
+				<path d="M0 623.35 L0 619.1 L245.12 619.1 L245.12 623.35" class="st21"/>
+			</g>
+			<path d="M104.34 687.13 L83.44 726.17" class="st22"/>
+			<path d="M0 682.88 L0 687.13 L245.12 687.13 L245.12 682.88" class="st22"/>
+			<path d="M0 623.35 L0 619.1 L245.12 619.1 L245.12 623.35" class="st22"/>
+			<text x="4" y="638.72" class="st23" v:langID="2052"><v:paragraph/><v:tabList/>容器列表内的容器需要满足 :<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st5">1. </tspan>已经停止运行<v:newlineChar/><tspan x="4" dy="1.2em" class="st5">2. </tspan>年龄超过 MinAge</text>		</g>
+		<g id="shape87-314" v:mID="87" v:groupContext="shape" v:layerMember="1" transform="translate(500.871,-617.785)">
+			<title>正交.87</title>
+			<desc>N 通过 MaxPerPodContainer 和 MaxContainers 计算得出</desc>
+			<v:userDefs>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#96afcf)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#1f477d)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#000000)"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="msvStructureType" v:prompt="" v:val="VT4(Callout)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt=""/>
+				<v:ud v:nameU="msvSDCalloutNoHighlight" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="Side" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(6.25MM,-6.4MM)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(10.096153846154MM,0MM)):40"/>
+				<v:ud v:nameU="IsEndInterior" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="Extension" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="Inset" v:prompt="" v:val="VT0(0.059055118110236):24"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="MultiFormat" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="BackFillColor" v:prompt="" v:val="VT5(#feffff)"/>
+				<v:ud v:nameU="BackLineColor" v:prompt="" v:val="VT5(#4a80b1)"/>
+				<v:ud v:nameU="BackCharColor" v:prompt="" v:val="VT5(#5b9bd5)"/>
+				<v:ud v:nameU="DarkerColor" v:prompt="" v:val="VT5(#4a80b1)"/>
+				<v:ud v:nameU="msvSDTargetIntersection" v:prompt="" v:val="VT7(PNT(1.7676417089898,-0.60128046712984)):40"/>
+				<v:ud v:nameU="LeaderEnd" v:prompt="" v:val="VT7(PNT(1.7676417089898,-0.60128046712984)):40"/>
+				<v:ud v:nameU="WHBoxIntersection" v:prompt="" v:val="VT7(PNT(1.6526197062327,0)):40"/>
+				<v:ud v:nameU="Embellishment" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="112.482" cy="653.117" width="224.97" height="65.6034"/>
+			<g id="shadow87-315" v:groupContext="shadow" v:shadowOffsetX="0" v:shadowOffsetY="0" v:shadowType="2"
+					v:shadowScale="0.42" v:shadowAngle="-57" transform="matrix(1,0,0.352242,0.228748,-242.037,529.952)" class="st1">
+				<path d="M118.99 687.13 L127.27 730.42" class="st21"/>
+				<path d="M0 682.88 L0 687.13 L224.96 687.13 L224.96 682.88" class="st21"/>
+				<path d="M0 623.35 L0 619.1 L224.96 619.1 L224.96 623.35" class="st21"/>
+			</g>
+			<path d="M118.99 687.13 L127.27 730.42" class="st22"/>
+			<path d="M0 682.88 L0 687.13 L224.96 687.13 L224.96 682.88" class="st22"/>
+			<path d="M0 623.35 L0 619.1 L224.96 619.1 L224.96 623.35" class="st22"/>
+			<text x="4" y="638.72" class="st23" v:langID="2052"><v:paragraph/><v:tabList/>N 通过 <tspan x="4" dy="1.2em" class="st5">MaxPerPodContainer </tspan>和 <tspan
+						x="4" dy="1.2em" class="st5">MaxContainers </tspan>计算得出</text>		</g>
+	</g>
+</svg>
